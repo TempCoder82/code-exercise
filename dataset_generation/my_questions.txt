@@ -1,0 +1,485 @@
+What's the relationship between Supplier Qualifications and average Total Price across departments?
+How does the use of CalCard vary across different Acquisition Methods?
+For each Department Name, what percentage of their suppliers are within the same ZIP code?
+What's the correlation between Classification Codes and Unit Price for IT Goods?
+Compare the average Total Price between purchases with and without LPA Numbers.
+What is the distribution of Purchase Date gaps between consecutive orders for each Department?
+Which Commodity Titles show the highest price variance across different suppliers?
+How does the Unit Price vary within each Segment Title across different fiscal years?
+What percentage of purchases in each Family Title are processed through CalCard?
+For each Department Name, what is the ratio of unique Supplier Codes to total purchase orders?
+Compare the average Total Price between different Supplier Qualification categories.
+What is the typical time gap between Requisition Number creation and actual Purchase Date?
+Which Class Titles show consistent pricing across different Supplier Codes?
+How does the Quantity ordered correlate with Unit Price across different Sub-Acquisition Types?
+What is the distribution of Total Price within each Normalized UNSPSC category?
+What is the distribution of Sub-Acquisition Methods within each Segment Title across fiscal years?
+For departments with high Supplier Code diversity, what is the average time between repeated purchases from the same supplier?
+How does the Unit Price variation compare between different Family Titles when filtered by Supplier Qualifications?
+What percentage of high-value purchases (>$50,000) have matching LPA Numbers across different departments?
+Compare the average Quantity ordered between CalCard and non-CalCard purchases within each Class Title.
+Which combinations of Department Name and Supplier Code show the most consistent Unit Price patterns over time?
+What is the relationship between Supplier Zip Code distances and Total Price within each Acquisition Type?
+How does the monthly purchase volume vary by Commodity Title for each Department Name?
+What is the distribution of Classification Codes within each Sub-Acquisition Method?
+Compare the average time between Purchase Date and Creation Date across different Acquisition Methods.
+Which Department Name shows the highest correlation between Normalized UNSPSC and Total Price?
+What is the seasonal pattern of Quantity ordered for each Family Title?
+How does the ratio of Unit Price to Classification Codes vary across different Supplier Qualifications?
+What percentage of purchases in each Segment have matching Requisition Numbers and Purchase Order Numbers?
+Compare the Total Price distribution between different combinations of Sub-Acquisition Type and Sub-Acquisition Method.
+Which Commodity Titles show the strongest relationship between Quantity ordered and time gaps between purchases?
+How does the average Total Price vary by Location within each Class Title?
+What is the distribution of Supplier Qualifications within each Family across different fiscal years?
+Compare the Unit Price stability between suppliers with single vs multiple Supplier Qualifications.
+What is the relationship between Classification Codes and purchase frequency within each Department Name?
+Show me all purchases where the Total Price is above $10,000 and CalCard is 'Yes'
+How many purchase orders were created each month by the Department of Technology in FY 2013-2014?
+List all suppliers who had more than 5 orders with the same Item Name in a single month
+What was the total spending by Location for purchases with Supplier Qualification 'SB'?
+Find all Item Names where the Unit Price varied by more than 20% for the same Supplier Code
+Show the count of Purchase Order Numbers by Department Name where Creation Date and Purchase Date differ by more than 7 days
+What is the average Total Price for each Commodity Title in Q2 2014?
+List all purchases where the Quantity is greater than 100 and Unit Price is less than $50
+Which Department Name had the highest total spending on items with Family Title containing 'Software'?
+Show me the number of unique Supplier Codes used by each Department Name in FY 2014-2015
+What is the average Total Price of purchases by Acquisition Method where LPA Number is not null?
+List all Item Names purchased by more than 3 different departments in a single month
+Show the total monthly spending by Department Name where Supplier Zip Code starts with '956'
+Which Supplier Name had the highest number of orders under $1000 with CalCard 'Yes'?
+Find all purchases where the Total Price doesn't match Quantity multiplied by Unit Price
+What is the average order value by Sub-Acquisition Method for each Department Name?
+Show me all Item Names purchased through both 'WSCA/Coop' and 'Leveraged Procurement Agreement' Acquisition Methods
+List departments that spent more than $50,000 in a single day, including the Purchase Date
+What is the average time between orders for each Item Name ordered more than 10 times?
+Show the distribution of Total Price by Classification Codes for IT-related purchases
+Find all purchases where the same Item Name was ordered at different Unit Prices by the same Department Name within 30 days
+Show all Supplier Names who received orders from at least 5 different Locations in a single month
+List the top 10 most expensive purchases by Total Price where Acquisition Method is 'NCB'
+What is the daily purchase volume for items where Segment Title contains 'Technology' in March 2014?
+Show me all Department Names where the average time between Creation Date and Purchase Date exceeds 14 days
+List Item Names that were purchased using every Sub-Acquisition Method available in the database
+What is the percentage of Total Price spent through each Acquisition Type by Location '95814'?
+Show all purchases where the Unit Price is 50% higher than the average Unit Price for that Item Name
+List Department Names where more than 30% of their Total Price is spent with suppliers having Supplier Qualification 'DVBE'
+Which Commodity Title had the highest number of purchases with non-matching Purchase Order Number and Requisition Number?
+Show me the trend of average Quantity ordered per month for each Family Title in FY 2013-2014
+List all cases where the same Supplier Code provided the same Item Name at different Unit Prices to different Department Names
+What is the distribution of Total Price for each Normalized UNSPSC code in Q1 2014?
+Show all Department Names where CalCard purchases account for more than 25% of their total order count
+Find Item Names that were purchased at least once by every Department Name in the database
+What is the average Total Price by Acquisition Method for each Class Title?
+Show all purchases where the Creation Date is in FY 2013-2014 but the Purchase Date is in FY 2014-2015
+List the top 5 Supplier Names by total number of unique Item Names provided
+What is the monthly trend of average Unit Price for each Segment where Total Price exceeds $10,000?
+Show Department Names where more than 50% of their purchases have matching LPA Numbers
+How many Purchase Order Numbers were created between January 1, 2014 and January 31, 2014?
+What was the total spending (sum of Total Price) in Q3 of fiscal year 2013-2014?
+Which Item Names were ordered more than 10 times in December 2013?
+Show the daily order count (distinct Purchase Order Numbers) for March 2014
+What is the total number of orders and total spending by quarter for FY 2014-2015?
+List the top 20 most frequently purchased Item Names in Q2 2014 with their order counts
+Show the weekly order volume (count of Purchase Order Numbers) trend for FY 2013-2014
+Which day of the week had the highest average number of orders in 2014?
+List all Item Names that were ordered at least once every month in FY 2013-2014
+What is the average number of line items per Purchase Order Number by Department Name?
+Show the monthly spending pattern (sum of Total Price) for orders created in FY 2013-2014
+Which quarter had the highest number of unique Supplier Codes used?
+List Item Names that appeared in more than 100 different Purchase Order Numbers
+What is the daily average Total Price for orders in each month of 2014?
+Show the count of Purchase Order Numbers created in the last week of each quarter
+Which Department Name had the highest number of repeat orders (same Item Name) in Q1 2014?
+What is the average time between consecutive orders for each frequently ordered Item Name (>20 orders)?
+Show the monthly trend of new Supplier Codes being used for the first time
+What percentage of total orders were created in the last 5 days of each month?
+List the top 10 months by total number of unique Item Names ordered
+What's the average number of days between Creation Date and Purchase Date for orders above $50,000?
+Show the number of Purchase Order Numbers created on the first business day of each month
+Which Supplier Names received orders in every month of FY 2013-2014?
+What's the distribution of order sizes (count of different Item Names per Purchase Order Number)?
+Show the hourly pattern of order creation (Creation Date) during business hours
+List Item Names where the total Quantity ordered in Q4 was 50% higher than Q3
+What percentage of total orders (Purchase Order Numbers) were created between 3-5 PM?
+Show departments where more than 30% of their orders were created on Fridays
+Which week of FY 2013-2014 had the highest total spending (sum of Total Price)?
+List all Purchase Order Numbers with more than 15 different Item Names
+What's the typical order value (Total Price) by day of week for each Department Name?
+Show Item Names that were ordered in consecutive months throughout 2014
+What's the average number of unique Supplier Names used per month by each Department Name?
+List Purchase Order Numbers where all items were ordered from the same Supplier Code
+Show the pattern of order volumes on days before and after holidays
+Which Department Name shows the most consistent daily order volume?
+What's the distribution of time gaps between consecutive orders from the same Supplier Name?
+Show months where the order volume was 20% above the yearly average
+List Item Names that were ordered in bulk (Quantity > 100) more than 5 times
+What's the ratio of rush orders (Purchase Date same as Creation Date) by Department Name?
+Show all Item Names where the Unit Price increased by more than 15% between consecutive orders
+What's the median order value (Total Price) by hour of day for each Department Name?
+List Supplier Names that received more than 50% of their total orders in a single quarter
+Show the correlation between order size (number of Item Names) and processing time (days between Creation Date and Purchase Date)
+Which Department Names have the highest percentage of weekend order creation?
+List Purchase Order Numbers where the Total Price exceeds twice the department's monthly average
+What's the distribution of Quantity ordered by day of month for frequently purchased items?
+Show departments that placed more than 30% of their monthly orders on the last day
+Which Item Names show the most consistent ordering pattern (regular intervals between Purchase Dates)?
+List all cases where multiple Purchase Order Numbers were created for the same Item Name on the same day
+What's the average number of unique Item Names ordered per week by Location?
+Show the pattern of high-value orders (>$100,000) by day of week and time of day
+Which Supplier Names have the most predictable delivery patterns (Creation Date to Purchase Date)?
+List Item Names that were ordered in similar quantities (±10%) across multiple Purchase Order Numbers
+What's the distribution of order values (Total Price) by hour for each Acquisition Method?
+Show departments where the average time between Creation Date and Purchase Date increased month over month
+Which pairs of Item Names are most frequently ordered together (same Purchase Order Number)?
+List cases where the same Item Name was ordered multiple times within 24 hours
+What's the typical order volume pattern in the days leading up to quarter-end?
+Show Purchase Order Numbers where all items have identical Creation Date and Purchase Date
+Count total Purchase Order Numbers by Department Name for May 2014
+Sum Total Price of all orders where Supplier Name is 'Dell' in Q1 2014
+List all Item Names where Unit Price is above $1000 in the Education department
+Count distinct Supplier Codes used by each Department Name in March 2014
+Show total spending (Total Price) by week for Location '95814'
+Find all Purchase Order Numbers where Quantity is greater than 100 in IT Services
+Count orders by Acquisition Method for Q2 2014
+List Item Names ordered more than 5 times by Department of Health
+Sum Total Price by Department Name where CalCard is 'Yes'
+Count Purchase Order Numbers created each day in April 2014
+Find all orders where Unit Price multiplied by Quantity is over $5000
+List top 10 Supplier Names by total order count in FY 2013-2014
+Show daily order count where Creation Date is in June 2014
+Count orders by Sub-Acquisition Method for each Department Name
+List all purchases where Purchase Date is more than 30 days after Creation Date
+Sum Total Price by Commodity Title for Q3 2013
+Count orders by Location where Total Price is above $10000
+Find Item Names purchased by more than 5 different Department Names
+Show total monthly spending where Supplier Qualification includes 'SB'
+Count Purchase Order Numbers by day of week for each Department Name
+Find orders where Unit Price changed by more than 5% between consecutive purchases of same Item Name
+Count Purchase Order Numbers by hour of day in July 2014
+List all Item Names ordered by both Location '95814' and '95605'
+Sum Total Price by Acquisition Type for first week of each month
+Show count of orders by Supplier Name where CalCard is 'No'
+List Purchase Order Numbers where same Item Name appears more than twice
+Count distinct Item Names ordered by each Department Name in Q4 2013
+Sum Quantity by Item Name for Department of Technology
+Show total spending by day where Supplier Qualification is 'DVBE'
+Count orders by Classification Codes in May 2014
+Find Item Names where average Quantity per order exceeds 50
+List total spending by Family Title in Q1 2014
+Count Purchase Order Numbers by Supplier Code for each month
+Show orders where Total Price is 30% above average for same Item Name
+Sum daily spending by Sub-Acquisition Method
+List Item Names ordered in both Q1 and Q4 of FY 2013-2014
+Count orders by Normalized UNSPSC where Total Price exceeds $1000
+Show Purchase Order Numbers with more than 5 different Commodity Titles
+Sum monthly spending where LPA Number is not null
+Count orders by Class Title for each Department Name
+Find Supplier Names used by all Locations in single month
+Show total spending by Segment Title in March 2014
+Count orders where Creation Date and Purchase Date match
+List Item Names with consistent monthly order Quantity (±10%)
+Sum weekly spending by Department Name where Total Price > $5000
+Show order count by Family for IT-related purchases
+Find purchases where Unit Price is lowest for each Item Name
+Count orders by Supplier Qualification for each Location
+List total spending by day of week for each Acquisition Method
+Show Item Names ordered at same Unit Price across all Departments
+List all Supplier Names where average time between orders decreased each month in 2014
+Count Purchase Order Numbers with exactly same Item Names but different Supplier Codes
+Show total spending by Segment Title where Unit Price changed mid-month
+Find departments that ordered same Item Name from at least 3 different Supplier Codes
+Count orders where Total Price is exactly divisible by Quantity
+List Item Names with highest percentage of rush orders (same day Creation and Purchase Date)
+Show monthly spending patterns for each Normalized UNSPSC category
+Count orders where Unit Price is above department's average for that Item Name
+Find Supplier Names that exclusively serve single Department Name
+List Purchase Order Numbers where all items are from same Family Title
+Show weekly order volume for items with Classification Codes ending in '00'
+Count orders where Total Price matches exactly across different Department Names
+Find Item Names with most consistent Unit Price across all Locations
+Show daily spending where Supplier Zip Code matches Location code
+Count orders by Commodity Title where Quantity is prime number
+List departments with highest percentage of single-item Purchase Order Numbers
+Show Purchase Order Numbers where all items share same Class Title
+Find cases where same Item Name has different Classification Codes
+Count orders by Sub-Acquisition Method where LPA Number format changed
+List Supplier Names with most diverse range of Item Names supplied
+Show total spending by Family Title where Unit Price ends in .99
+Find Purchase Order Numbers with items from every Segment Title
+Count orders where Item Description contains specific technical terms
+List departments that never use certain Acquisition Methods
+Show weekly patterns of CalCard vs non-CalCard purchases
+Find Item Names ordered only on specific days of week
+Count orders where Requisition Number follows non-standard pattern
+Show spending distribution by hour for each Supplier Qualification
+List Purchase Order Numbers with highest variety of Commodity Titles
+Find cases where Unit Price varies by Location for identical items
+Find Purchase Order Numbers where every item's Unit Price is a multiple of 100
+Count orders where Item Description matches Item Name exactly
+Show suppliers whose Total Price sum increases every quarter
+List Item Names where Quantity ordered follows Fibonacci sequence
+Count Purchase Order Numbers created during last hour of each month
+Find departments that alternate between different Supplier Codes for same Item Name
+Show cases where Unit Price differs by more than 50% across Locations for same day
+List Item Names ordered only in first week of each month
+Count orders where Classification Codes changed for same Item Name
+Show Purchase Order Numbers with longest gap between consecutive items
+Find Supplier Names that appear with multiple Supplier Codes
+List departments where all orders in a day share same Acquisition Method
+Count cases where Item Name appears under different Family Titles
+Show orders where Total Price is exactly same across different months
+Find Item Names with consistent weekly order pattern by Location
+List Purchase Order Numbers where every item has prime number Quantity
+Show departments that never place orders on Mondays
+Count orders where Unit Price is higher for smaller Quantities
+Find Supplier Names that only appear in specific quarters
+List cases where same Item Name has different Commodity Titles
+Show Purchase Order Numbers with items from exactly 4 different Segments
+Find departments that always use same Supplier Code for specific Item Names
+Count orders where Creation Date is on weekend but Purchase Date isn't
+List Item Names ordered in pairs (same Quantity, same Purchase Date)
+Show cases where Unit Price varies by time of day for same Item Name
+Sum Total Price by Department Name where Purchase Date between '2014-01-01' and '2014-03-31'
+Count distinct Supplier Codes where Total Price > 10000 in FY 2013-2014
+List Item Names where Unit Price is between 100 and 500 in Q2 2014
+Show daily order count where Creation Date is in May 2014 grouped by Location
+Find Purchase Order Numbers where Quantity > 10 and CalCard = 'Yes'
+Sum Total Price by Acquisition Method for each month in FY 2014-2015
+Count orders where Supplier Qualifications contains 'SB' grouped by Department Name
+List all Item Names where Unit Price * Quantity differs from Total Price
+Show weekly order count where Classification Codes > 5000
+Count Purchase Order Numbers by Supplier Name where LPA Number is not null
+Find items where average Quantity per month exceeds 100 units
+Sum Total Price by Family Title where Purchase Date in Q1 2014
+List orders where Creation Date > Purchase Date
+Show daily spending where Normalized UNSPSC between 1000 and 2000
+Count orders by Class Title where Total Price > department average
+Find Item Names ordered in consecutive months of 2014
+Sum Quantity by Commodity Title for each Department Name
+List Purchase Order Numbers where Segment = 43000000
+Count orders by Supplier Zip Code where Location = '95814'
+Show monthly spending where Family > 5000 and Class < 6000
+Find orders where Unit Price is highest for each Item Name
+Count Purchase Order Numbers by hour of Creation Date
+Sum Total Price by Sub-Acquisition Type where Quantity > 1
+List Item Names ordered by all departments in single month
+Show daily order count where Supplier Code appears multiple times
+Find Purchase Order Numbers with same Creation Date and Purchase Date
+Count orders by Class Title where Total Price exceeds $5000
+Sum weekly spending where Supplier Qualifications is not null
+List items where Unit Price changed more than 10% between orders
+Show order count by Location where CalCard = 'No'
+How many purchase orders were created in Q2 of the fiscal year 2013-2014?
+Which fiscal quarter recorded the highest total spending?
+What are the most frequently ordered items across all purchase orders?
+Which supplier provided the highest number of items in Q1 2013-2014?
+List all purchase orders where the total price exceeded $50,000.
+Which locations had the highest spending in 2013-2014?
+How many unique suppliers were involved in procurement in 2013-2014?
+What was the total expenditure for classification code '76121504'?
+Which item was ordered in the largest quantity in 2013-2014?
+What is the monthly trend of total spending in 2013-2014?
+What is the total spending across all purchase orders in 2013-2014?
+How does the total spending vary across acquisition types?
+What is the average total price per purchase order?
+What is the median spending per purchase order?
+Identify the five most expensive purchase orders in the dataset.
+What is the monthly trend in the number of purchase orders for 2013-2014?
+Which month had the highest spending in fiscal year 2013-2014?
+How many purchase orders were created in the last month of fiscal year 2013-2014?
+What was the average total price of orders in Q1 2013-2014?
+How many items were purchased in each quarter of 2013-2014?
+Which department created the most purchase orders?
+What is the total expenditure for each supplier in the dataset?
+Which supplier had the most transactions in fiscal year 2013-2014?
+What is the average spending per supplier?
+How many suppliers were involved in purchases exceeding $10,000?
+Which classification code had the highest spending in fiscal year 2013-2014?
+How many unique classification codes are used in the dataset?
+List all items that were ordered more than 10 times.
+What are the top 3 most frequently used commodity titles?
+Which family of items contributed the most to total spending?
+Which location had the largest number of purchase orders?
+What is the average spending per location?
+Identify the top 3 zip codes with the highest total expenditure.
+What are the top 5 locations with the most frequently ordered items?
+What is the percentage of total spending for orders from suppliers located in California?
+What is the distribution of spending across sub-acquisition methods?
+How many purchase orders were made using the 'WSCA/Coop' method?
+Which acquisition method accounted for the largest share of spending?
+What percentage of orders were made through 'Statewide Contract' acquisitions?
+Which acquisition type had the lowest average spending per order?
+How many purchase orders are missing a requisition number?
+What percentage of the dataset has missing classification codes?
+How does spending differ between 'IT Goods' and 'NON-IT Goods'?
+What is the distribution of acquisition types across fiscal years?
+What is the average total price for orders containing classification code '44103127'?
+Count the number of orders created in September 2013.
+List all purchase orders created between January and March 2014.
+How many purchase orders were created in each fiscal quarter?
+Retrieve all purchase orders with a purchase date in 2013.
+What is the total spending for orders created on or after 01 July 2013?
+Which acquisition method had the highest total spending?
+What is the total price for all transactions where the total price exceeds $20,000?
+What is the sum of unit prices for all items in the dataset?
+How many orders had a unit price greater than $100?
+What percentage of total spending was contributed by 'IT Services'?
+Count the number of orders made by each supplier.
+What is the total spending for each supplier in the fiscal year 2013-2014?
+Retrieve all records where the supplier zip code starts with '94'.
+List all suppliers with at least 5 orders.
+Which supplier had the largest transaction by total price?
+List all items with a classification code containing '7612'.
+What is the total quantity of items ordered for classification code '44103127'?
+Which item name appears the most frequently in the dataset?
+How many unique items were ordered in fiscal year 2013-2014?
+What is the total expenditure for items grouped by commodity title?
+How many orders were created in each month of fiscal year 2013-2014?
+Retrieve all orders created on weekends in 2013.
+What is the total expenditure for orders created in Q3 of fiscal year 2013-2014?
+List all purchase orders with purchase dates in December 2013.
+What is the average spending per order for each month?
+Which acquisition type accounted for the highest average total price per order?
+What is the total spending for orders where the total price is between $5,000 and $10,000?
+How many orders had a total price of exactly $0?
+What is the total unit price of all items ordered in 2014?
+What percentage of total spending is attributed to 'NON-IT Goods'?
+List all suppliers that provided items classified under 'IT Services'.
+What is the average total price per supplier?
+Retrieve all suppliers whose zip codes start with '958'.
+Which supplier had the smallest total spending across all orders?
+How many suppliers have provided goods or services more than 3 times?
+Which classification codes are associated with the highest number of transactions?
+List all items that have a unit price greater than $1,000.
+How many unique classification codes are used for 'IT Goods'?
+What is the total expenditure for items grouped by class title?
+Which classification code had the lowest average total price per order?
+Which acquisition method has the lowest total spending?
+How many orders used the 'Statewide Contract' acquisition method?
+What is the average spending per order for 'WSCA/Coop' acquisitions?
+What is the distribution of acquisition types across fiscal years?
+Which acquisition type had the highest number of transactions in Q4?
+Which location had the highest total spending?
+What is the average spending per location?
+How many orders were created at locations with coordinates starting with '38.'?
+List all orders where the location field contains '91436'.
+What percentage of orders originated from locations with a zip code starting with '9'?
+Count the number of purchase orders created in the first week of January 2014.
+List all orders created on Fridays.
+How many orders were created in each fiscal year?
+What is the average total price of orders created in the last quarter of 2013?
+Retrieve all orders created on or after 01 October 2013.
+Which purchase order has the highest total price?
+How many orders have a quantity of 1 or less?
+What is the total expenditure for orders with a unit price greater than $500?
+Which orders have a total price between $1,000 and $5,000?
+What is the distribution of total prices in fiscal year 2013-2014?
+List all suppliers with at least one order exceeding $50,000 in total price.
+What is the average total price of orders for each supplier?
+Which supplier has provided the most unique items?
+How many orders have been placed with suppliers that have 'ISO Certified' qualifications?
+What is the total quantity of items supplied by each supplier?
+What is the total spending for all items under 'Office Supplies' classification?
+List all orders where the classification codes include '1234'.
+Which item description appears most frequently in the dataset?
+What is the average unit price of items classified under 'IT Equipment'?
+How many unique classification codes are used in the dataset?
+How many orders were made using each acquisition method?
+What is the total spending for each acquisition method?
+Which sub-acquisition type has the highest average total price?
+What is the total expenditure for 'Competitive Bidding' acquisitions?
+Which acquisition type has the highest number of transactions?
+List all orders made from locations with coordinates in California (starting with '38.').
+What is the total spending for orders originating from zip codes starting with '91'?
+Which location has the highest total quantity of items ordered?
+How many orders are missing a valid location entry?
+Retrieve all orders where the location includes the zip code '95814'.
+How many orders were created on each day of the week?
+What is the average total price of orders created on weekdays versus weekends?
+Retrieve all orders created in the second half of 2013.
+How many orders were created in the first 15 days of each month?
+Which month in fiscal year 2013-2014 had the least number of purchase orders?
+What is the range (difference between maximum and minimum) of total prices for all orders?
+How many orders have total prices that are multiples of $1,000?
+What is the total expenditure for all orders with missing purchase dates?
+List all purchase orders with a total price less than the average total price.
+What is the total quantity of items purchased where the total price exceeds $100,000?
+Which supplier has the highest average unit price across all items?
+How many unique suppliers provided goods in fiscal year 2013-2014?
+List all suppliers whose names contain the word 'Tech'.
+Which supplier has the lowest total expenditure for all their orders?
+How many orders were placed with suppliers located in zip codes starting with '9'?
+What is the total quantity of items ordered for each classification code?
+Retrieve all orders where the item name starts with 'Laptop'.
+Which item had the highest total spending across all orders?
+How many orders have both classification codes and commodity titles missing?
+List all unique item descriptions associated with 'NON-IT Goods'.
+What is the total expenditure for each acquisition type, grouped by fiscal year?
+Which acquisition method has the highest average unit price for items?
+What is the total number of transactions made using 'Informal Competitive' acquisition methods?
+Retrieve all orders where the acquisition type includes 'IT'.
+What is the average quantity of items ordered for each acquisition type?
+Which zip code had the most number of unique suppliers providing goods?
+What is the total expenditure for all orders made from zip codes starting with '914'?
+List all orders where the location coordinates contain negative longitude values.
+Which location had the largest number of orders classified under 'Furniture'?
+What is the total quantity of items ordered from locations in the 95841 zip code?
+Count the number of purchase orders created in each quarter of the fiscal year.
+Which day of the month had the highest number of orders in 2013?
+How many purchase orders were created in the last week of fiscal year 2013-2014?
+Retrieve all orders created on public holidays (if dates are specified).
+How many orders were created between 01 December 2013 and 15 January 2014?
+Which item had the highest total spending within the classification code '76121504'?
+List all orders where the total price is an exact multiple of the quantity ordered.
+What is the total expenditure for all orders where the unit price exceeds $10,000?
+How many orders have a total price that is less than the total price of the top 10 orders combined?
+Retrieve all orders where the total price is greater than the median total price of the dataset.
+Which supplier has provided the greatest number of unique classification codes?
+How many suppliers have handled orders with missing location information?
+Retrieve all suppliers who have transactions only in Q1 of the fiscal year.
+What is the average total price of all orders handled by the top 3 suppliers with the most transactions?
+How many suppliers have supplied both 'IT Goods' and 'NON-IT Goods'?
+What is the most frequently purchased commodity title in Q2 2013-2014?
+List all classification codes with more than 50 transactions.
+Which family title has the highest total expenditure across all orders?
+How many orders have items with a unit price below $5 but a total price above $100?
+What is the average quantity ordered for items classified under 'Furniture'?
+Which acquisition type has the most consistent (lowest variance) total price across orders?
+How many orders used a combination of 'Direct Purchase' and 'WSCA/Coop' acquisition methods?
+Retrieve all records where the sub-acquisition method is missing but the acquisition type is 'IT Goods'.
+What is the distribution of acquisition methods across different locations?
+Which sub-acquisition method has the highest average unit price for items?
+How many locations have more than 10 orders in fiscal year 2013-2014?
+What is the total spending for orders grouped by zip codes in California?
+List all orders originating from coordinates in the range 38.5 to 39.0 latitude.
+Which location had the highest expenditure for 'NON-IT Goods'?
+How many orders are missing location coordinates but include zip codes?
+Which fiscal year had the fewest orders created?
+What percentage of total orders were created in Q4 of each fiscal year?
+Retrieve all orders created on the first and last day of each fiscal year.
+How many orders were created on holidays (if specified dates are known)?
+What is the total expenditure for orders created in the second half of 2013?
+Which 10 purchase orders have the lowest unit prices?
+What is the ratio of total price to unit price for each order?
+How many orders have a total price less than $500 but a unit price greater than $50?
+Which orders have a total price exactly equal to their quantity multiplied by $100?
+What is the standard deviation of total prices for all orders in 2013-2014?
+List all suppliers with orders in every quarter of fiscal year 2013-2014.
+Which supplier had the highest total price in December 2013?
+How many suppliers have only one transaction in the entire dataset?
+What is the maximum total price for a single order from each supplier?
+Retrieve all suppliers who provided only 'NON-IT Goods' during the fiscal year.
+Which classification codes have the most items with quantities exceeding 10?
+What is the total spending for each family title across all classification codes?
+Which commodity title is associated with the highest number of orders?
+List all items where the classification code and commodity title are both missing.
+What is the maximum quantity ordered for any single item in fiscal year 2013-2014?
+Which acquisition method has the most missing sub-acquisition types?
+What is the total spending for 'Statewide Contract' acquisition methods grouped by fiscal year?
+Which acquisition type has the most items with quantities exceeding 100?
+Retrieve all orders where the acquisition method is 'Direct Purchase' and the total price exceeds $50,000.
+What is the most common acquisition type for orders created in Q1?
+What is the average total price of orders originating from zip codes starting with '9'?
+Which zip codes had the highest number of missing classification codes?
+What is the total expenditure for each location with valid coordinates?
+Retrieve all orders where the location field contains both a zip code and coordinates.
+Which location had the highest total quantity of orders grouped by fiscal year?

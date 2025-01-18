@@ -1,0 +1,197 @@
+{
+  "basic_stats": {
+    "total_records": 200000,
+    "unique_departments": 110,
+    "unique_suppliers": 20538,
+    "unique_items": 109151,
+    "unique_acquisition_types": 5
+  },
+  "data_quality": {
+    "null_counts": {
+      "creation_date": 0,
+      "purchase_date": 9532,
+      "department_name": 0,
+      "supplier_name": 0,
+      "item_name": 0,
+      "total_price": 0,
+      "unit_price": 0
+    },
+    "price_calculation_mismatches": 10372
+  },
+  "temporal_patterns": {
+    "date_ranges": {
+      "creation_date": {
+        "start": "2012-07-02 00:00:00",
+        "end": "2015-06-30 00:00:00"
+      },
+      "purchase_date": {
+        "start": "1911-10-01 00:00:00",
+        "end": "2238-02-15 00:00:00"
+      }
+    },
+    "fiscal_years": [
+      "2012-2013",
+      "2013-2014",
+      "2014-2015"
+    ]
+  },
+  "financial_metrics": {
+    "total_spend": NaN,
+    "average_unit_price": NaN,
+    "price_range": {
+      "min": NaN,
+      "max": 7337038064.0
+    },
+    "total_transactions": 200000
+  },
+  "categorical_distribution": {
+    "department_name": [
+      {
+        "value": "Corrections and Rehabilitation, Department of",
+        "count": 30285
+      },
+      {
+        "value": "Water Resources, Department of",
+        "count": 21752
+      },
+      {
+        "value": "Correctional Health Care Services",
+        "count": 18782
+      },
+      {
+        "value": "Forestry and Fire Protection, Department of",
+        "count": 13897
+      },
+      {
+        "value": "State Hospitals, Department of",
+        "count": 10556
+      },
+      {
+        "value": "Transportation, Department of",
+        "count": 9476
+      },
+      {
+        "value": "Consumer Affairs, Department of",
+        "count": 7914
+      },
+      {
+        "value": "General Services, Department of",
+        "count": 5706
+      },
+      {
+        "value": "Developmental Services, Department of",
+        "count": 5656
+      },
+      {
+        "value": "Statewide Health Planning & Development, Office of",
+        "count": 5506
+      }
+    ],
+    "supplier_name": [
+      {
+        "value": "Voyager Fleet Systems Inc",
+        "count": 13756
+      },
+      {
+        "value": "Western Blue, an NWN Company",
+        "count": 5023
+      },
+      {
+        "value": "Grainger Industrial Supply",
+        "count": 4516
+      },
+      {
+        "value": "Unknown",
+        "count": 4438
+      },
+      {
+        "value": "Prison Industry Authority",
+        "count": 4320
+      },
+      {
+        "value": "McKesson Medical - Surgical Minnesota Su",
+        "count": 3727
+      },
+      {
+        "value": "3B INDUSTRIES INC",
+        "count": 3274
+      },
+      {
+        "value": "Technology Integration Group",
+        "count": 3195
+      },
+      {
+        "value": "Smile Business Products, Inc",
+        "count": 2726
+      },
+      {
+        "value": "PC Specialist Inc dba TIG (Technology Integration Group)",
+        "count": 2089
+      }
+    ],
+    "acquisition_type": [
+      {
+        "value": "NON-IT Goods",
+        "count": 123796
+      },
+      {
+        "value": "NON-IT Services",
+        "count": 39352
+      },
+      {
+        "value": "IT Goods",
+        "count": 30217
+      },
+      {
+        "value": "IT Services",
+        "count": 6563
+      },
+      {
+        "value": "IT Telecommunications",
+        "count": 72
+      }
+    ],
+    "item_name": [
+      {
+        "value": "Medical Supplies",
+        "count": 1926
+      },
+      {
+        "value": "Contract",
+        "count": 1676
+      },
+      {
+        "value": "medical vocational training",
+        "count": 959
+      },
+      {
+        "value": "contract",
+        "count": 754
+      },
+      {
+        "value": "ew",
+        "count": 699
+      },
+      {
+        "value": "Expert Witness",
+        "count": 683
+      },
+      {
+        "value": "Toner",
+        "count": 499
+      },
+      {
+        "value": "Office Supplies",
+        "count": 478
+      },
+      {
+        "value": "Medical Vocational Training Services",
+        "count": 456
+      },
+      {
+        "value": "medical vocational training services",
+        "count": 442
+      }
+    ]
+  }
+}

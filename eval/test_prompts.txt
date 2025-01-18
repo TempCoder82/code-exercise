@@ -1,0 +1,100 @@
+What is the total expenditure on NON-IT Goods for the department of Corrections and Rehabilitation during the fiscal year 2014-2015?
+What is the total expenditure on IT Services for the department of Corrections and Rehabilitation during the fiscal year 2014-2015?
+Which are the top three departments with the highest total expenditure on IT Goods in fiscal year 2013-2014?
+For the top three departments with the highest expenditure on IT Goods in fiscal year 2013-2014, what are the most frequently used suppliers, acquisition methods, and item categories?
+What are the averages of unit price and quantity for IT Goods purchases by the top three departments in fiscal year 2013-2014?
+What is the total procurement spending per department for the fiscal year 2015?
+Sort the total procurement spending per department for fiscal year 2015 in decreasing order of total spending.
+For the top 5 suppliers for NON-IT Services in the Department of Water Resources in fiscal year 2012-2013, what is the total amount spent and the breakdown of purchases by sub-acquisition type?
+What is the total expenditure made by the Department of Corrections and Rehabilitation for IT Services in the fiscal year 2014-2015?
+What is the average total price spent on IT Goods per fiscal year?
+What is the average total price spent on IT Services per fiscal year?
+How many procurement items were purchased by the Correctional Health Care Services department in fiscal year 2014-2015?
+What is the total quantity and average unit price of NON-IT Goods purchased by the Department of Corrections and Rehabilitation in fiscal year 2014-2015?
+How many purchases were made by the Department of Water Resources in fiscal year 2014-2015?
+What is the total amount spent by the Department of Corrections and Rehabilitation on IT Services in fiscal year 2014-2015, grouped by supplier name and sorted in descending order?
+What is the average unit price of IT Telecommunications goods purchased by the Department of Corrections and Rehabilitation in fiscal year 2014-2015, grouped by supplier?
+What is the total quantity and total price of all IT Services purchased by the Department of Water Resources in fiscal year 2014-2015?
+What is the average unit price of IT Goods purchased in fiscal year 2014-2015?
+What is the total amount spent by the Department of Water Resources on IT Goods in fiscal year 2014-2015?
+What is the average unit price of IT Goods purchased in fiscal year 2014-2015, grouped by department?
+What is the average total price of IT Goods purchased by the Department of Water Resources in fiscal year 2014-2015?
+What is the total amount spent on IT Services by the Department of Corrections and Rehabilitation in fiscal year 2013-2014?
+What is the total amount spent by the Department of Water Resources on NON-IT Goods and NON-IT Services in fiscal year 2014-2015?
+Which suppliers provided IT Goods to the Correctional Health Care Services department in fiscal years 2012-2013 and 2013-2014?
+What are the top 10 most expensive IT Goods purchased by the Correctional Health Care Services department in fiscal years 2012-2013 and 2013-2014?
+What is the total quantity of NON-IT Goods purchased by the Corrections and Rehabilitation department in fiscal years 2012-2013, 2013-2014, and 2014-2015?
+What is the average unit price of NON-IT Goods purchased by the Corrections and Rehabilitation department in fiscal years 2012-2013, 2013-2014, and 2014-2015?
+What is the total quantity of IT Goods purchased by the Corrections and Rehabilitation department in fiscal years 2012-2013, 2013-2014, and 2014-2015?
+What is the average unit price of IT Goods purchased by the Corrections and Rehabilitation department in fiscal years 2012-2013, 2013-2014, and 2014-2015?
+Who are the top 5 suppliers by total order amount for NON-IT Services acquired through direct purchase between January 1, 2014, and December 31, 2014?
+Which suppliers with a supplier_zip_code starting with '9' and listed qualifications provided NON-IT Services through direct purchase between January 1, 2014, and December 31, 2014?
+What is the average total price of IT Goods procured by the Correctional Health Care Services department in fiscal year 2014-2015?
+Group the average total price of IT Goods procured by the Correctional Health Care Services department in fiscal year 2014-2015 by supplier name.
+Sort the average total price of IT Goods procured by the Correctional Health Care Services department in fiscal year 2014-2015 by descending order.
+Find all procurement records for the Corrections and Rehabilitation department where the acquisition type was NON-IT Services or IT Services in fiscal year 2013-2014.
+What is the average unit price of IT Goods procured by the Department of Water Resources during fiscal year 2014-2015, grouped by acquisition method?
+What is the average unit price of IT Services procured by the Department of Water Resources during fiscal year 2014-2015, grouped by acquisition method?
+Retrieve purchase records for the Department of Corrections and Rehabilitation where supplier qualifications are 'Certified Green' or 'Small Business' and the total purchase amount exceeded $10,000.
+Group the filtered purchase records for the Department of Corrections and Rehabilitation by acquisition type, acquisition year, and supplier name.
+What is the total amount spent by the Department of Water Resources on IT Services in fiscal year 2014-2015?
+What is the number of purchases, average purchase amount, and highest cost item for IT Services by the Department of Water Resources in fiscal year 2014-2015?
+What is the total expenditure on IT Services by the Department of Corrections and Rehabilitation during fiscal year 2014-2015?
+What is the total purchase amount and average unit price of IT Goods in fiscal year 2014-2015, grouped by department name and acquisition method?
+What is the total expenditure on IT Goods by the Department of Corrections and Rehabilitation during fiscal year 2014-2015?
+What are the top 5 items or services procured by the Department of Water Resources during fiscal years 2012-2013 and 2013-2014 based on total cost?
+What is the average unit price of IT Goods purchased by the Department of Water Resources in fiscal year 2013-2014?
+What is the average total price of IT Goods procured by the Department of Corrections and Rehabilitation during fiscal year 2014-2015?
+Find all procurement transactions where the acquisition method was 'Purchase Order' and the supplier's zip code was '94204'.
+How many procurements were made by the Department of Corrections and Rehabilitation for IT Goods in fiscal year 2014-2015?
+What was the average unit price for IT Goods procured by the Department of Corrections and Rehabilitation in fiscal year 2014-2015?
+What is the average unit price and total price of NON-IT Goods purchased by the Department of Water Resources in fiscal year 2014-2015?
+What is the total expenditure by the Department of Corrections and Rehabilitation on IT Goods in fiscal year 2014-2015?
+What is the average unit price for each acquisition type?
+Who are the top 5 suppliers by quantity of items supplied for each acquisition type?
+What is the total amount spent by the Department of Corrections and Rehabilitation on IT Goods and Services in fiscal year 2014-2015?
+How many items of NON-IT Goods were purchased by the Department of Water Resources in fiscal year 2013-2014?
+What was the average unit price of NON-IT Goods purchased by the Department of Water Resources in fiscal year 2013-2014?
+What is the total spending on IT Goods and Services by the Department of Water Resources in fiscal year 2014-2015, broken down by supplier?
+What is the total purchase amount and number of purchases made by each supplier for IT Goods and Services in fiscal year 2014-2015?
+What is the average unit price of IT Goods purchased in fiscal year 2014-2015, grouped by department name?
+Find all procurement records where department_name is 'Water Resources', acquisition_type is 'IT Services', and fiscal_year is '2014-2015'.
+What is the total amount spent by the Corrections and Rehabilitation department on NON-IT Goods in fiscal year 2013-2014?
+How many unique suppliers did the Corrections and Rehabilitation department purchase NON-IT Goods from in fiscal year 2013-2014?
+What is the total quantity of IT Goods purchased by the Department of Water Resources in fiscal year 2013-2014?
+What is the total amount spent on IT Goods and IT Services procurement by the Corrections and Rehabilitation department in fiscal year 2014-2015?
+Sort the procurement records by total price from highest to lowest and include purchase date, supplier name, item name, and total price.
+How many NON-IT Goods were purchased by the Corrections and Rehabilitation department in fiscal year 2013-2014?
+What is the average total price of IT Services procured in fiscal year 2014-2015, grouped by department?
+Find all suppliers with qualifications who supplied NON-IT Goods in fiscal year 2013-2014.
+Sort the procurement records for NON-IT Goods suppliers by unit price in descending order.
+Provide supplier names, item names, item descriptions, and total price for each item.
+Find all procurement records where acquisition_type is 'IT Services' and department_name is 'Corrections and Rehabilitation' in fiscal year 2014-2015.
+What is the total amount spent by the Corrections and Rehabilitation department on NON-IT Goods in fiscal year 2013-2014?
+Who are the top 5 suppliers for NON-IT Goods for the Corrections and Rehabilitation department in fiscal year 2013-2014, based on total amount supplied?
+What is the total quantity and average total price of IT Goods procured from supplier 'ABC Corp' across all departments in fiscal year 2014-2015?
+What is the average unit price for IT Goods purchased by the Corrections and Rehabilitation department in fiscal year 2013-2014?
+What is the average unit price for IT Goods purchased by the Department of Corrections and Rehabilitation in fiscal year 2013-2014?
+What is the average unit price and total purchase amount for each acquisition type in fiscal year 2014-2015, broken down by department name?
+Find all procurement records where supplier_name is 'XYZ Corporation' and acquisition_type is 'IT Services'.
+Filter the procurement records to include only those with a purchase date after January 1, 2013, and location as 'San Francisco'.
+Provide a count of procurement records that match these criteria.
+How many procurement orders were made by the Department of Corrections and Rehabilitation in fiscal year 2013-2014?
+What was the average total price of procurement orders made by the Department of Corrections and Rehabilitation in fiscal year 2013-2014?
+What is the total number of procurements made by each department in fiscal year 2014-2015, grouped by acquisition type?
+How many purchases were made by the Corrections and Rehabilitation department related to IT Services in fiscal year 2014-2015?
+What are the top 5 departments with the highest total expenditure on IT Goods in fiscal year 2014-2015?
+What is the total purchase amount, average unit price, and total quantity of IT Goods purchased by each of these departments?
+Find all purchase orders from the Department of Water Resources that used the acquisition method 'Direct Purchase' in fiscal year 2013-2014.
+Include details such as item name, item description, supplier name, and total price for these purchase orders.
+What is the average unit price and total quantity of IT Goods procured by the Department of Corrections and Rehabilitation in fiscal year 2014-2015, categorized by supplier?
+How many IT Goods were acquired by the Department of Corrections and Rehabilitation in fiscal year 2013-2014?
+Group the results by supplier_name and sort them by total quantity of IT Goods supplied in descending order.
+How many procurements were made by the Corrections and Rehabilitation department for IT Services in fiscal year 2014-2015?
+What is the average total price of IT Goods and IT Services procured by the Department of Corrections and Rehabilitation in fiscal year 2014-2015?
+What is the total number of IT Goods and IT Services procurements made by the Department of Corrections and Rehabilitation in fiscal year 2014-2015?
+Find all NON-IT Goods acquired through the purchase method, with a unit price higher than $500, and supplied by suppliers based in zip code 90005.
+Group these procurement records by supplier_name and calculate the average total price for each supplier.
+Sort the results in descending order by average total price and show supplier names, number of items supplied, and their average total price.
+What is the total expenditure broken down by acquisition type for the Department of Water Resources in fiscal year 2014-2015?
+What is the total expenditure for each department on IT Goods and IT Services in fiscal year 2014-2015, grouped by department_name?
